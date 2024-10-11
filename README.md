@@ -1,1 +1,2 @@
-# rcoeprj-22-291-376-group17
+# NLP MiniProject Group 2 
+# Legal Text Summarizer
